@@ -1,4 +1,4 @@
 # Informatica
-*Il modello ER
-*PHP
-*Database
+* Il modello ER
+* PHP
+* Database
