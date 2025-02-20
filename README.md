@@ -1,12 +1,12 @@
 # Informatica
 * Il modello ER
-* Nel primo pacchetto di slide imparerai:
-Il sistema informatico
-Che cos'è una base di dati
-Dati e informazioni: schermi e istanze
-Livelli di astrazion di un DBMS
-Il modello di dati
-La progettazione di una base di dati
+* Nel primo pacchetto di slide imparerai:\\
+Il sistema informatico\\
+Che cos'è una base di dati\\
+Dati e informazioni: schermi e istanze\\
+Livelli di astrazion di un DBMS\\
+Il modello di dati\\
+La progettazione di una base di dati\\
 
 * Nel secondo pacchetto di slide imparerai:
 La progettazione concettuale
