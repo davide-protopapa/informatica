@@ -1,4 +1,3 @@
 # Informatica
 * Il modello ER
-* PHP
-* Database
+* PHP e Database MySql
