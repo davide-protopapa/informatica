@@ -6,34 +6,34 @@ Che cos'è una base di dati <br>
 Dati e informazioni: schermi e istanze <br>
 Livelli di astrazion di un DBMS <br>
 Il modello di dati <br>
-La progettazione di una base di dati <br>
+La progettazione di una base di dati <br> <br>
 
 * Nel secondo pacchetto di slide imparerai:
-La progettazione concettuale
-il modello concettuale ER
-le entità
-gli attributi
-gli atributi chiave
-le associazioni
-le associazioni ricorsive
-proprietà delle associazioni
-tipi di associzioni
+La progettazione concettuale <br>
+il modello concettuale ER <br>
+le entità <br>
+gli attributi <br>
+gli atributi chiave <br>
+le associazioni <br>
+le associazioni ricorsive <br>
+proprietà delle associazioni <br>
+tipi di associzioni <br> <br>
 
-* Nel terzo pacchetto di slide imparerai:
-la progettazione logica
-ristrutturazione dello schema ER
-le relazioni
-il mapping
-rappresentazione delle associazioni
-vincoli d'integrità
-operazioni relazionali
-operatori primitivi
-operatori derivati
-la normalizzazione
-la prima forma normale
-seconda forma normale
-terza forma normale
-forma normale di boyce-codd
+* Nel terzo pacchetto di slide imparerai: <br>
+la progettazione logica <br>
+ristrutturazione dello schema ER <br>
+le relazioni <br>
+il mapping <br>
+rappresentazione delle associazioni <br>
+vincoli d'integrità <br>
+operazioni relazionali <br>
+operatori primitivi <br>
+operatori derivati <br>
+la normalizzazione <br>
+la prima forma normale <br>
+seconda forma normale <br>
+terza forma normale <br>
+forma normale di boyce-codd <br> <br>
 
 
 
