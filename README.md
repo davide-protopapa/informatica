@@ -1,3 +1,4 @@
+ciao
 # Informatica
 * Il modello ER
 * Nel primo pacchetto di slide imparerai: <br>
